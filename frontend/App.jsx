@@ -66,7 +66,7 @@ export function App(props) {
 
   return (
     <div className={classes.root}>
-      <AppBar position="fixed" className={classes.appBar}>
+      {/* <AppBar position="fixed" className={classes.appBar}> */}
         <Toolbar>
           <IconButton
             color="inherit"
